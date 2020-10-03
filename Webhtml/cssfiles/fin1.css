@@ -1,0 +1,25 @@
+h1{
+    text-align: center;
+    font-style: italic;
+    color: blue;
+    background-color: aqua;
+    line-height: 200%;
+}
+nav{
+    text-align: center;
+    font: small-caps;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 150%;
+    background-color:#B3B3B3;
+    line-height: 50%    ;
+}
+#achievements{
+    color: hsl(159, 38%, 39%);
+}
+#fav{
+    text-align: justify;
+    font-size: large;
+    font-style: normal;
+    font-family:Arial, Helvetica, sans-serif;
+    font-size: 20px;
+}
